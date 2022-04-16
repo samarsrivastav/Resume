@@ -1,0 +1,80 @@
+
+ body{
+        margin:0;
+            
+            text-align: center;
+            font-family: 'Merriweather', serif;
+
+        }
+hr{
+        border-style: none;
+        border-top-style: dotted;
+        border-color: gray;
+        border-width: 8px;
+        width:10%;
+    }
+h1{  
+        color: #66BFBF;
+        margin: 50px auto 0 auto;
+        font-family: 'Sacramento', cursive;
+        font-size: 5.65rem;
+        }
+.heading{
+    line-height: 2;
+}        
+.detail{
+    margin: 0 auto 0 auto;
+    font-size: 2.5rem;
+    font-weight: normal;
+}        
+h3{
+        color: #11999E;
+        font-family: 'Montserrat', sans-serif;
+
+    }
+.dp{
+    height:200px;
+    width:200px;
+    border-radius:200px;
+}
+    .web{
+        height: auto;
+        width:25%;
+        float: left;
+    margin-right:30px;
+    }
+ .badge{
+    height: auto;
+    width:25%;
+    float: right;
+    margin-left:30px;
+    border: solid 5px grey;
+ }
+   .footer-link{
+       color:#11999E;
+   }
+ .skill-row{
+     width: 50%;
+     margin:50px auto 100px auto;
+     text-align: left;
+     line-height: 2;
+ }   
+.contact-me{
+    margin:50px auto 50px auto;
+}   
+   
+
+ 
+.bottom-cloud{
+    position: absolute;
+}
+.top-cloud{
+    margin-top: 50px;
+    position: relative;
+    left: 200px;
+}
+.top-container{
+    background-color: #EAF6F6;
+    margin: 0 auto 10px auto;
+
+}
